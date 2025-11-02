@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: lightblue;   
+}
+
+h1 {
+    text-align: center;            
+    color: darkblue;             
+}
+
+p {
+    color: darkred;                
+    font-size: 18px;               
+    text-align: justify;           
+}
